@@ -1,0 +1,5 @@
+この画像 `challenge_image.png` に隠されたFLAGを見つけ出せ。
+健闘を祈る。
+
+配布ファイル: challenge_image.png
+FLAG形式: FLAG{...}
